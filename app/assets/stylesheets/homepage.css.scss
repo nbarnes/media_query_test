@@ -1,0 +1,10 @@
+.statement {
+  font-size: 2em;
+  color: red;
+}
+
+@media screen and (max-width:800px) {
+  .statement {
+    color: green;
+  }
+}
